@@ -16,10 +16,10 @@
 ![Снимок экрана 2023-12-02 в 11 52 59](https://github.com/KLDarina/test_project_dashboard/assets/88550881/95f8073b-ba10-4385-8ab3-cad7081c4f9e)
 
 Также реализована таблет и мобайл версии.
+
 <img width="480" alt="Снимок экрана 2023-12-02 в 11 55 08" src="https://github.com/KLDarina/test_project_dashboard/assets/88550881/1d1c3bc6-4092-4cf6-b805-b27d04262201">
 <img width="617" alt="Снимок экрана 2023-12-02 в 12 03 53" src="https://github.com/KLDarina/test_project_dashboard/assets/88550881/d8f97bd8-25c1-4424-a787-5e9fc1ee5880">
 <img width="593" alt="Снимок экрана 2023-12-02 в 12 04 04" src="https://github.com/KLDarina/test_project_dashboard/assets/88550881/fc9e58ac-6a3c-4f49-9b77-c7bfdf6ea226">
-
 
 
 На верстку и логику понадобилось приблизительно 7 часов.
